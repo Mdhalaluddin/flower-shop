@@ -1,0 +1,250 @@
+body {
+    font-family: 'Lato', sans-serif;
+    margin: auto;
+}
+
+.header {
+    margin-bottom: 10px;
+}
+
+.text-heading {
+    font-size: 40px;
+    color: #272727;
+    font-size: 55px;
+    margin-bottom: 0%;
+    margin-right: 30px;
+}
+
+.first-pra {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 20px;
+}
+
+.btn-primary {
+    border-radius: 8px;
+    background: #E55473;
+    color: #fff;
+    font-size: 15px;
+    padding: 10px 30px;
+    border: 0px;
+}
+
+.text-boundary {
+    padding: 0px 30px 40px;
+}
+
+.primary-text {
+    color: #E55473;
+}
+
+nav .cover-img {
+    width: 400px;
+    height: 500px;
+}
+
+.cover-page {
+    padding: 30px 140px 0px 140px;
+    display: flex;
+    align-items: center;
+}
+
+.header {
+    background-color: rgba(229, 84, 115, 0.10);
+    ;
+    background-size: auto;
+}
+.text-flower{
+    text-decoration: underline;
+}
+.all-flower-text{
+    display: flex;
+    margin-left: 80px;
+    text-decoration: underline;
+}
+
+.flower-text-1{
+    margin-left: 110px;
+}
+.flower-text-2{
+    margin-left: 225px;
+}
+.flower-text-3{
+    margin-left: 240px;
+}
+.flower-box1{
+    width: 280px;
+    height: 320px;
+    padding: 30px 30px 0px 30px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    margin-left: 90px;
+}
+.flower-box2{
+    width: 280px;
+    height: 320px;
+    padding: 30px 30px 0px 30px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    margin-left: 15PX;
+    t
+    
+}
+.flower-box3{
+    width: 280px;
+    height: 320px;
+    padding: 30px 30px 0px 30px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    margin-left: 15px;
+}
+
+.flower-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-bottom: 90px;
+}
+
+.deal-write {
+    color: #272727;
+    font-size: 30px;
+    font-weight: 300;
+}
+
+.deal-text {
+    text-align: center;
+}
+
+.hot-deal {
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 90px;
+
+}
+
+.pra-deal {
+    font-size: 15px;
+    width: 500px;
+
+}
+
+.deal-pic {
+    width: 200px;
+    padding: 30px;
+}
+
+.insta {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 10px;
+    margin-top: 80px;
+}
+
+.insta-pra {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500px;
+    line-height: 30px;
+    margin-top: 5px;
+    margin-bottom: 30px;
+    padding: 0px 300px 5px 300px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.box {
+    width: 250px;
+    height: 300px;
+    padding: 15px;
+    margin-bottom: 50px;
+
+}
+
+.latest-deal {
+    color: #272727;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 800;
+    margin-bottom: 0%;
+}
+
+.latest-pra {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 0%;
+}
+
+.email-tag {
+    width: 400px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+.sub-btn {
+    padding: 0px 200px 5px 250px;
+}
+
+.latest-cover {
+    background-image: url("/Flower Asset/pectangle9.png");
+    width: 85%;
+    margin: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 60px;
+}
+
+.latest-token {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+footer {
+    width: 100%;
+    background-size: cover;
+    background: #111010;
+    margin-top: 80px;
+
+}
+
+.flower-shop {
+    color: #ffffff;
+    font-size: 48px;
+    font-weight: 800;
+    text-align: center;
+    margin-bottom: 0%;
+  
+}
+.footer-pra {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding: 0px 230px 0px 230px;
+}
+.copy-right {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+}
+.footer-text{
+    padding: 30px 80px 30px 80px;
+}
